@@ -1,4 +1,4 @@
-# Task 10 om code-basics HTML
+# Task 10 on code-basics HTML
 Number 1
 <ul>
      <ol> 
